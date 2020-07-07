@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.dentway.com.tr	TRUE	/eng3/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+www.dentway.com.tr	TRUE	/bg/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+www.dentway.com.tr	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
